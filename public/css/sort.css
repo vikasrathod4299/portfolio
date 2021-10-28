@@ -1,0 +1,20 @@
+.array-inputs{
+    color: gray;
+    display: flex;
+}
+.navbar {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+@media (max-width: 1000px)
+{
+    #2nf{
+        position: relative;
+        right: 100%;
+    }
+
+    .array-inputs{
+        display: flex;
+    }
+ }
